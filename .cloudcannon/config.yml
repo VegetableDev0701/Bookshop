@@ -1,4 +1,66 @@
-source: out
-
+_schema: _schema
+source: /
+paths:
+  uploads:
+  uploads_filename:
+  uploads_use_relative_path:
+  static:
+  dam_uploads:
+  dam_uploads_filename:
+  dam_static:
+collections_config:
+  app:
+    path:
+    glob: []
+    name:
+    singular_name:
+    icon: notes
+    url:
+    disable_url: false
+    include_developer_files:
+    documentation:
+    description:
+    preview:
+      text:
+      subtext:
+      icon:
+      icon_color:
+      image:
+      metadata:
+      gallery:
+    sort:
+    sort_options:
+    _editables:
+      text:
+        allow_custom_markup: true
+        remove_custom_markup: false
+        bold: true
+        copyformatting: true
+        italic: true
+        link: true
+        paths:
+        redo:
+        removeformat:
+        strike:
+        subscript:
+        superscript:
+        underline:
+        undo:
+    _enabled_editors:
+    _inputs:
+    _select_data:
+    _structures:
+    add_options:
+    create:
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    new_preview_url:
+    schemas:
+    schema_key:
+base_url: /
+editor:
+  default_path:
+timezone: Etc/UTC
 bookshop:
-  components: "bookshop/components"
+  components: bookshop/components
