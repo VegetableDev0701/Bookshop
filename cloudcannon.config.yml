@@ -1,0 +1,13 @@
+source: /
+collections_config:
+  cloudcannon:
+    path: cloudcannon
+    name: Cloudcannon
+    icon: cloud_alert
+paths:
+  static: ''
+  uploads: uploads
+timezone: America/Los_Angeles
+markdown:
+  engine: commonmark
+  options: {}
