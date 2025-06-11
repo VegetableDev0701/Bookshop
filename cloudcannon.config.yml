@@ -26,6 +26,17 @@ collections_config:
 collection_groups:
   - heading:
     collections:
+_enabled_editors:
+  - visual
+  - data
+  - content
+_inputs:
+  message:
+    type: text
+    cascade: true
+base_url: /
+editor:
+  default_path: /
 timezone: America/Los_Angeles
 markdown:
   engine: commonmark
