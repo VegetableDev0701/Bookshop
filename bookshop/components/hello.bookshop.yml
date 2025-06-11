@@ -1,0 +1,6 @@
+label: Hello World
+inputs:
+  - name: message
+    label: Message
+    type: text
+    default: Hello World
