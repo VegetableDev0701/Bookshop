@@ -1,4 +1,4 @@
-source: /
+source: out/
 collections_config:
   cloudcannon:
     path: cloudcannon
@@ -6,7 +6,7 @@ collections_config:
     icon: cloud_alert
 paths:
   static: ''
-  uploads: uploads
+  uploads: public/uploads
 timezone: America/Los_Angeles
 markdown:
   engine: commonmark
