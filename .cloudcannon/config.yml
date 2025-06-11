@@ -1,0 +1,4 @@
+source: out
+
+bookshop:
+  components: "bookshop/components"
